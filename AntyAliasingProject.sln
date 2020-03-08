@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntyAliasingProject", "OpenTkTutorial\AntyAliasingProject.csproj", "{1D34E102-A849-4591-BBC2-A73DEE232E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D34E102-A849-4591-BBC2-A73DEE232E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D34E102-A849-4591-BBC2-A73DEE232E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D34E102-A849-4591-BBC2-A73DEE232E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D34E102-A849-4591-BBC2-A73DEE232E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F4753C-AEB5-4D0B-8F5D-36CFFB211959}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,38 @@
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\Objects\cow.obj
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\Shaders\fs.glsl
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\Shaders\vs.glsl
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\AntyAliasingProject.exe.config
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\AntyAliasingProject.exe
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\AntyAliasingProject.pdb
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\OpenTK.dll
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\System.Buffers.dll
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\OpenTK.pdb
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\OpenTK.xml
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\System.Buffers.xml
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\obj\Release\AntyAliasingProject.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\obj\Release\AntyAliasingProject.csproj.CopyComplete
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\obj\Release\AntyAliasingProject.exe
+C:\Users\Admin\source\repos\AntyAliasingProject\OpenTkTutorial\obj\Release\AntyAliasingProject.pdb
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\Objects\cow.obj
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\Shaders\fs.glsl
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\Shaders\vs.glsl
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\AntyAliasingProject.exe.config
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\AntyAliasingProject.exe
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\AntyAliasingProject.pdb
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\OpenTK.dll
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\System.Buffers.dll
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\OpenTK.pdb
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\OpenTK.xml
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\System.Buffers.xml
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\obj\Release\AntyAliasingProject.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\obj\Release\AntyAliasingProject.csproj.CopyComplete
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\obj\Release\AntyAliasingProject.exe
+C:\Users\Admin\source\repos\Projekt demonstracyjny\OpenTkTutorial\obj\Release\AntyAliasingProject.pdb
